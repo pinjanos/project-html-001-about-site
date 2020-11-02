@@ -84,3 +84,7 @@ box-shadow: black 2px 2px 5px;
 body {
     background: cross-fade( #a6b0c4 darkgray solid );
 }
+
+#pinter {
+    position: relative; top: 8px; left: -1px;
+}
