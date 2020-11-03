@@ -52,6 +52,7 @@ box-shadow: black 2px 2px 5px;
 }
 
 .navBar {
+    text-align: center;
     background-color: rgb(206, 215, 216);
     width: 100px; height: 95px;
     border: solid #a6b0c4;
@@ -61,9 +62,6 @@ box-shadow: black 2px 2px 5px;
 
 .navBar ul {
     list-style-type: none;
-}
-
-.navBar ul li {
     display: inline-block;
 }
 
